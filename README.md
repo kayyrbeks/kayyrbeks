@@ -1,3 +1,5 @@
+![Profile header image](./github-header-image.png)
+
 - 👋 Hi, I’m Kayyrbek.
 - 👀 I’m interested in **Frontend** development.
 - 🌱 I’m currently learning **JS**, **TS**.
